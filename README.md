@@ -17,8 +17,8 @@ This repo runs the Virto Commerce Platform and a storefront locally with Docker 
 You need Docker (with Compose v2), Git, and Bash. On Windows use Git Bash.
 
 ```bash
-git clone https://github.com/dussashivani/Project_Virto-Commerce-Platform_.git
-cd Project_Virto-Commerce-Platform_
+git clone https://github.com/adarsh0331/Project_29_Virto_e-commerce.git
+cd Project_29_Virto_e-commerce
 
 ./scripts/generate-env.sh        # creates .env with random secrets (git-ignored)
 ./scripts/install-modules.sh     # one time: installs the Virto modules (the image ships with none)
